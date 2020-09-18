@@ -1,0 +1,24 @@
+.website_title {
+	color: white;
+	font-weight: bold;
+	font-size: xx-large;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu_item {
+	color: white;
+	font-weight: bold;
+	font-size: larger;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.home {
+	background-color:black;
+}
+
+.ant-layout-content {
+    -ms-flex: auto;
+    flex: auto;
+    min-height: 0;
+    background-color: black;
+}

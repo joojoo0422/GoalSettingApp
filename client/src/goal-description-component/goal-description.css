@@ -1,0 +1,334 @@
+
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+
+.ant-menu{
+    height: 100vh;
+}
+
+
+.description{
+    width: 660px;
+    white-space: normal;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 300px;
+}
+
+.colors{
+    width: 360px;
+    white-space: normal;
+    margin-left: 300px;
+    text-align: left;
+    padding-top: 20px;
+    overflow: auto;
+}
+
+.colorsList{
+    list-style: none;
+}
+
+
+.color{
+    float: left;
+    margin-left: 20px;
+}
+
+.color1{
+    margin-left: -40px;
+}
+
+.color-item{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white
+}
+
+#init{
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    visibility: visible;
+}
+
+.item1{
+    background-color: #4232EB;
+}
+
+.item2{
+    background-color: #FF4A4D;
+}
+
+.item3{
+    background-color: #4497FF;
+}
+
+.item4{
+    background-color: #2ACB63;
+}
+
+.item5{
+    background-color: #F646AC;
+}
+
+.item6{
+    background-color: #ff9102;
+}
+
+.anticon{
+    color: white;
+}
+.checked{
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    visibility: hidden
+}
+
+#common{
+    height: 2000px;
+    background-color: #FFCB35;
+}
+
+#ratings{
+    height: 2000px;
+    background-color: aqua;
+}
+
+.site-layout{
+    margin-left: 200;
+}
+
+.goal{
+    margin-top: 16vh;
+    margin-left: 20vw;
+    width: 54vw;
+    white-space: normal;
+    border-radius: 16px;
+    padding-top: 74px;
+    border: 2px solid #b1b7c5;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 38px;
+}
+
+.ant-progress-circle .ant-progress-text{
+    color: black;
+}
+
+.progress{
+    margin-left: -460px;
+}
+
+.goal-title{
+    color: black;
+    font-size: 4vh;
+    margin-top: -160px;
+    margin-left: 54px;
+}
+
+.icons{
+    margin-left: 540px;
+    margin-top: 100px;
+    width: 100px;
+}
+
+#right-sider{
+    overflow: auto;
+    right: 0;
+    height: 1600px;
+    width: 350px;
+    float: right;
+    position: absolute;
+}
+
+.quote{
+    margin-top: 100px;
+    width: 240px;
+    margin-left: 60px;
+}
+
+
+div.ant-picker-calendar.ant-picker-calendar-mini{
+    margin-top: 160px;
+    margin-right: 10px;
+}
+
+.ant-layout-header{
+    background-color: #000000;
+}
+
+
+
+.buttonGroup{
+    list-style: none;
+    float: left;
+    margin-top: 169px;
+    margin-left: 6px;
+}
+
+.btn{
+    width: 160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid #FFCB35;
+    background-color: #242F43;
+    color: #FFCB35;
+}
+
+.btn:hover{
+    border: 2px solid #FFCB35;
+    background-color: #405375;
+    color: #FFCB35;
+}
+
+.btn:focus{
+    border: 2px solid #FFCB35;
+    background-color: #405375;
+    color: #FFCB35;
+}
+
+.viewGoal{
+    width: 100vw;
+    height: 1600px;
+    float: left;
+    background-color: #242F43;
+    padding-top: 90px;
+}
+
+.comments{
+    width: 100vw;
+    height: 1600px;
+    background-color: #242F43;
+    padding-top: 16vh;
+}
+
+.content{
+    display: block;
+    border-radius: 16px;
+    margin-left: -30px;
+    background-color: #F2F3F5;
+    white-space: normal;
+    word-break: break-word;
+    text-align: left;
+    padding: 10px;
+    margin-right: 50px;
+}
+
+.comment{
+    margin-top: 20px;
+    color: white;
+}
+
+.comment strong{
+    color: #e2e2e2;
+}
+
+.comment-icon{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: -46px;
+}
+
+.date{
+    font-size: 12px;
+    float: left;
+    margin-left: -20px;
+    color: white;
+}
+
+.btn2{
+    color: white;
+    background-color: transparent;
+    border: none;
+}
+
+.likeBtn{
+    color: white;
+    background-color: transparent;
+    border: none;
+}
+
+.btn2:hover{
+    background-color: lightcoral;
+    border: none;
+}
+
+.detail{
+    width: 50vw;
+    margin-left: 266px;
+    height: 500px;
+    background-color: #303e58;
+    border-radius: 3px;
+    border: 2px solid gray;
+}
+
+#enterComment{
+    display: block;
+    border-radius: 16px;
+    width: 36vw;
+    background-color: #F2F3F5;
+    white-space: normal;
+    text-align: left;
+    margin-left: 3px;
+    padding: 6px;
+    border: 1px solid #CCD0D5;
+    font-size: 16px;
+    color: rgb(82, 82, 82);
+    
+}
+
+.sendBtn{
+    background-color: transparent;
+    border: none;
+    margin-top: 9px;
+    margin-left: -54px;
+}
+
+.emojis{
+    background-color: transparent;
+    border: none;
+    margin-top: 9px;
+    margin-left: 70px;
+}
+
+.send-icon{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: -14px;
+}
+
+.star{
+    color: rgb(216, 216, 216);
+    width: 20px;
+    height: 20px;
+}
+
+
+#starList{
+    list-style: none;
+    margin-left: -36px;
+    margin-bottom: 20px;
+}
+
+.starItem{
+    float: left;
+}
+
+.ant-popover-inner{
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.ant-popover-arrow{
+    border: transparent;
+}
+

@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.admin {
+  margin: 20px;
+}
+
+.divider {
+  margin: 10px 50px;
+  position: relative;
+  max-width: 300px;
+  background-color: transparent;
+}
+
+.collapse {
+  margin: 30px 50px;
+  text-align: left;
+}

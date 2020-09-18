@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.dark.css';
+
+.header {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.subtitle {
+	font-size: large;
+	text-align: left;
+}
+
+.panel_header {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: larger;
+	font-weight: bold;
+	color: #0066cc;
+}
+
+.content_padding {
+	 padding: 10px 50px 30px 50px;
+	 background-color: black;
+}

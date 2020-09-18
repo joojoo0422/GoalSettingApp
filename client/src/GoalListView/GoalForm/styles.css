@@ -1,0 +1,19 @@
+.header {
+	text-align: left;
+}
+
+.form {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.button { 
+	margin-top: 10px;
+ }
+
+ .label { 
+	color: white;
+	font-size: 15px;
+	margin-bottom: 15px;
+	margin-top:0px;
+ }
